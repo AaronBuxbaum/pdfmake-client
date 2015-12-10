@@ -1,0 +1,24 @@
+{
+  "name": "pdfmake-client",
+  "version": "1.0.0",
+  "description": "An npm wrapper around pdfmake's client-side repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronBuxbaum/pdfmake-client.git"
+  },
+  "keywords": [
+    "pdfmake",
+    "client",
+    "pdf"
+  ],
+  "author": "Aaron Buxbaum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronBuxbaum/pdfmake-client/issues"
+  },
+  "homepage": "https://github.com/AaronBuxbaum/pdfmake-client#readme"
+}
